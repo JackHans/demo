@@ -1,0 +1,28 @@
+[0330/013144:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0330/013144:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0330/013144:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0330/013144:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0330/013144:WARNING:resource_bundle.cc(497)] locale resources are not loaded
+[0330/013144:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0330/013145:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0330/013145:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0330/013145:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0330/013147:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0330/013147:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0330/013147:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0330/013147:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0330/013147:ERROR:renderer_main.cc(207)] Running without renderer sandbox
+[0330/013156:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0330/013156:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0330/013156:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0330/013156:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0330/013156:WARNING:resource_bundle.cc(497)] locale resources are not loaded
+[0330/013156:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0330/013156:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0330/013156:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0330/013156:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0330/013158:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0330/013158:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0330/013158:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0330/013158:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0330/013158:ERROR:renderer_main.cc(207)] Running without renderer sandbox
